@@ -2,11 +2,11 @@ table{
     width: 50;
     line-height: 1,5;
    border: solid 3px rgb(163, 68, 226);
-  
+  w
 }
 thead{
     background-color: rgb(239, 192, 235);
-    color: white;
+    color: rgb(10, 10, 10);
     font-size: 20px;
     font-family: Comic Sans Ms;
     text-align: center;
